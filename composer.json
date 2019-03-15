@@ -1,6 +1,6 @@
 {
     "name": "zzp/cache",
-    "version": "v1.0",
+    "version": "1.0",
     "description": "cache",
     "license": "MIT",
     "autoload": {
