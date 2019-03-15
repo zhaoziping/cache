@@ -1,0 +1,20 @@
+{
+    "name": "zzp/cache",
+    "description": "cache",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simple\\Cache\\": "src/",
+            "Simple\\Cache\\Exception": "src/Exception"
+        }
+    },
+    "authors": [
+        {
+            "name": "zzp",
+            "email": "425178360@qq.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
