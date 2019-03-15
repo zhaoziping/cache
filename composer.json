@@ -6,7 +6,7 @@
     "autoload": {
         "psr-4": {
             "Simple\\Cache\\": "src/",
-            "Simple\\Cache\\Exception": "src/Exception"
+            "Simple\\Cache\\Exception\\": "src/Exception"
         }
     },
     "authors": [
